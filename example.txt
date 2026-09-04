@@ -1,1 +1,2 @@
 This is my first DevOps practical using Git. 
+This is my second line for the DevOps practical. 
